@@ -5,15 +5,15 @@
   </div> 
   <div id="badges"  align="center">
 
-[![Typing SVG](https://pt.bloggif.com/tmp/23c3c3556b7e3a44a2733b56aff11abd/text.gif?1656115981)](https://github.com/lopesmilena221/)
+[![Typing SVG](https://pt.bloggif.com/tmp/23c3c3556b7e3a44a2733b56aff11abd/text.gif?1656115981)](https://github.com/lopesmilena221)
 
   </div>
 
 ### Para entrar em contato comigo 👇
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marques-8b040b169/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lopesmilena221/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lopesmilena221/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-lopes-598bb4233/)
 
 <div id="badges" align="center">
  <a href="https://github.com/lopesmilena221">
