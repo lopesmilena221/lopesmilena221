@@ -32,6 +32,11 @@
 
 ## Estudante de curso técnico na Etec de Embu das Artes 📚
 
+ <div align="center">
+  
+  ![Snake animation](https://github.com/lopesmilena221/lopesmilena221/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
 </br>
 <div id="badges"  align="center">
 
