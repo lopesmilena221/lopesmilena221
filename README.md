@@ -16,8 +16,8 @@
 
 <div id="badges" align="center">
  <a href="https://github.com/lopesmilena221">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=lopesmilena221&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesmilena221&layout=compact&theme=solarized-dark" alt="Most Used Lnguages lopesmilena221" />
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=lopesmilena221&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesmilena221&layout=compact&theme=synthwave" alt="Most Used Lnguages lopesmilena221" />
   </div>
 
 ## O que eu estou estudando 👇📚
