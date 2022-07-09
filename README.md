@@ -8,11 +8,18 @@
 
   </div>
 
+<div align="center">
+
+
 ### Para entrar em contato comigo 👇
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lopesmilena221/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lopesmilena221/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-lopes-598bb4233/)
+
+
+</div>
+
 
 <div id="badges" align="center">
  <a href="https://github.com/lopesmilena221">
@@ -20,19 +27,32 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesmilena221&layout=compact&theme=synthwave" alt="Most Used Lnguages lopesmilena221" />
   </div>
 
+<div align="center">
+
+
 ## O que eu estou estudando 👇📚
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 </br>
 
-## Estudante de curso técnico na Etec de Embu das Artes 📚
 
- <div align="center">
+</div>
+
+
+<div align="center">
+
+## Estudante de Desenvolvimento de Sistemas na Etec de Embu das Artes, Sempre disposta a aprender e conhecer mais sobre o Mundo da Tecnologia. 💻📚
+
+</div>
+
+
+<div align="center">
   
   ![Snake animation](https://github.com/lopesmilena221/lopesmilena221/blob/output/github-contribution-grid-snake.svg)
   </div>
