@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## Estudante de Desenvolvimento de Sistemas na Etec de Embu das Artes, Sempre disposta a aprender e conhecer mais sobre o Mundo da Tecnologia. 💻📚
+## Aluna de Desenvolvimento de Sistemas na Etec de Embu das Artes, Sempre disposta a aprender e conhecer mais sobre o Mundo da Tecnologia. 💻📚
 
 </div>
 
